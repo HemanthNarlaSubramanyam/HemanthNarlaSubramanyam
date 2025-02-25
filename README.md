@@ -3,7 +3,7 @@
 <p align="center">
 🚀 <b>Data Specialist | Data-Driven Optimization Expert</b> <br>
 📊 Passionate about <b>Data Analytics, Machine Learning, A/B Testing, and Data Visualization</b> <br>
-🌍 Based in Berlin, Germany | Open to Opportunities
+🌍 Based in Berlin, Germany 
 </p>
 
 ---
